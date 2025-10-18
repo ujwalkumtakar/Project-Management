@@ -1,11 +1,12 @@
 # Node / frontend modules
-node_modules/
+frontend/node_modules/
 
 # Python cache
 __pycache__/
 *.pyc
 
 # Database
+backend/database.db
 *.db
 
 # OS files
@@ -15,6 +16,5 @@ Thumbs.db
 # Logs
 *.log
 
-# Build folders
-dist/
-build/
+# Build files
+frontend/build/
