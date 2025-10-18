@@ -1,0 +1,16 @@
+# Node / frontend modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
