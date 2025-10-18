@@ -14,3 +14,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Build folders
+dist/
+build/
