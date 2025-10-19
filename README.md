@@ -8,7 +8,7 @@
 ## Backend Setup
 1. cd backend
 2. python -m venv venv
-3. source venv/bin/activate  (Windows: venv\Scripts\activate)
+3. source venv/bin/activate  (Windows: venv\Scripts\Activate.ps1)
 4. pip install -r requirements.txt
 5. python app.py
    - Default admin created: `ujwalkumtakar5@gmail.com` / `password123`
