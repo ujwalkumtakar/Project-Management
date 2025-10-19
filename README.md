@@ -4,6 +4,18 @@
 - Python 3.8+
 - Node 16+
 - pip
+- SQLite (preinstalled with most Python versions; if not, [download here](https://www.sqlite.org/download.html))
+
+## How to Run the Project
+
+If you have downloaded this project as a ZIP file from GitHub, please note:
+
+When you extract it, a folder named **Project-Management-main** will be created automatically.  
+Before running the project, open your terminal and navigate into that folder using:
+
+1. cd Project-Management-main
+
+Then run the both frontend and backend following these steps mentioned below
 
 ## Backend Setup
 1. cd backend
@@ -28,4 +40,9 @@
 
 
 ## Git-Hub
+https://github.com/ujwalkumtakar/Project-Management.git
+
+
+## Email-ID
 ujwalkumtakar5@gmail.com
+ 
